@@ -16,3 +16,7 @@ body {
 	font-size: 24px;
 	background-size: 12.5%;
 }
+
+.important {
+	color: #ff0000;
+}
