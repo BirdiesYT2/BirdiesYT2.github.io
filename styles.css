@@ -15,6 +15,10 @@ body {
 	stroke-width: 0.75;
 	font-size: 24px;
 	background-size: 12.5%;
+	font-weight: bold;
+	color: white;
+    	text-shadow: -3px 3px #000000;
+	stroke-width: 1;
 }
 
 .important {
