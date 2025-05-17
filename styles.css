@@ -10,12 +10,6 @@ body {
 	align-self: center;
 	text-align: center;
 	font-family: NSMBW;
-	stroke: black;
-	stroke-width: 0.75;
-	background-size: 12.5%;
-	font-weight: bold;
-    	text-shadow: -3px 3px #000000;
-	stroke-width: 1;
 }
 
 .important {
